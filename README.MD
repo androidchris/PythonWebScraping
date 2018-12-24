@@ -5,7 +5,7 @@
 # Keeping virtualenvs organized:
 Create a folder where you store all your virtualenvs like:
 virtualenv in the main folder you do all your web app work. 
-Create a virtual env and source it by typing similar:
+Create a virtualenv and source it by typing similar:
 source virtualenvs/MYFancyNewVirtualEnvHERE/bin/activate
 
 # Install requirements:
